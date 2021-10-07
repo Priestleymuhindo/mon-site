@@ -26,7 +26,7 @@ La numérotation
 #. La difficulté est qu’un nombre unique ne peut représenter les différentes facettes de la liaison entre 2 variables. 
 #. Ces tests ont pour but de contrôler l’indépendance stochastique de deux ou plusieurs 
 #. prenez :)
-
+Voici le changement
 
 A propos de l'auteur
 --------------------
