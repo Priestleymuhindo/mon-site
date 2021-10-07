@@ -48,3 +48,4 @@ colorier en blue
     La difficulté est qu’un nombre unique ne peut représenter les différentes facettes de la liaison entre 2 variables. 
     Ces tests ont pour but de contrôler l’indépendance stochastique de deux ou plusieurs  prenez :)
     voici un chagement!
+    Encore unn autre changement
